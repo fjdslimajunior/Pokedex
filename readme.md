@@ -37,7 +37,7 @@ Confirmar a alteração e tentar execução novamente
 - cdn normalize css
 
 - Uso do google fonts para alterar fonte padrão -> https://fonts.google.com/
-
+- Inclusão do <link> para linkagem da font listada no css e google no arquivos index.html 
 
 
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula

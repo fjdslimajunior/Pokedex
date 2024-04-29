@@ -33,6 +33,10 @@ Teoria baseada em um servidor local, porém estrutura se repete de modo global.
 ## <h1> CSS Estilos </h1>
 ## <h1> Javascript Dita o comportamento da nossa página</h1>
 
+### <h1> 0.2</h1>
+Devido ao problema de interpretação diferenciada sobre cada navegador, onde cada um tem o seu módolu de interepretação do código, usaremos um especie de padronizador do css, neste caso está sendo usado o "https://necolas.github.io/normalize.css/", existe outras opções disponíveis, basta buscar. 
+
+cdn normalize css
 
 
 

@@ -44,6 +44,12 @@ Confirmar a alteração e tentar execução novamente
 ### <h1> 0.3</h1>
 - Uso de técnica Mobile First.
 
+### <h1> 0.4</h1>
+- inclusão de listas, div
+- identificação por "class"
+- Ajuste de layoute
+- Inclusão de imagens e características.
+- Edição de elisto do .css
 
 
 

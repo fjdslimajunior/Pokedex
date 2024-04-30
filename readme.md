@@ -40,6 +40,17 @@ Confirmar a alteração e tentar execução novamente
 - Inclusão do <link> para linkagem da font listada no css e google no arquivos index.html 
 
 
+
+### <h1> 0.3</h1>
+- Uso de técnica Mobile First.
+
+
+
+
+
+
+
+
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula
 
 <style>

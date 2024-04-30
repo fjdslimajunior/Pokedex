@@ -50,7 +50,7 @@ Confirmar a alteração e tentar execução novamente
 - Ajuste de layoute
 - Inclusão de imagens e características.
 - Edição de elisto do .css
-
+- uso da api [https://pokeapi.co/]
 
 
 

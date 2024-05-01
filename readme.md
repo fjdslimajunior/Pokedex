@@ -52,9 +52,38 @@ Confirmar a alteração e tentar execução novamente
 - Edição de elisto do .css
 - uso da api [https://pokeapi.co/]
 
+### <h1> 0.5</h1>
++ Funcionamento do protocolo HTTP
+- URL
+- PATH
+- REQUEST METHOD : Get | Post | Put | Delete | Patch
+- Padrões de projetos Rest (Toda requizisão o metodo diz o que será feito)
+
+Ex.:Requisição HTTP<BR>
+URL: https://pokeapi.co/api/v2/pokemon<BR>
+	${Endereço}/${path = caminho de identificação do recurso}"
 
 
+- Path params e Query String
+- Resquest Headers
+    /configuração da api
+    Ex.: accept-language: pt-BRq=1;PTq=0.3
+    
+- Response Headers
+    contente-type: applitcaiton/jason
 
+
+- Request Body
+{
+    "name" : "Teste"
+}
+
+* STATUS CODE (RESPOSTA INFORMANDO O QUE ACONTECEU COM A REQUISIÇÃO )
+
+- Response Headers
+    : Resposta como o "Status Code" está configurado 
+- Response Body
+    : A resposta em si!
 
 
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula

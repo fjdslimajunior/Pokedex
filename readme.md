@@ -85,6 +85,22 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 - Response Body
     : A resposta em si!
 
+- Mencionou Pré-processadores de CSS **Sass
+
+### <h1> 0.6</h1>
+- Integração com a PokeAPI {https://pokeapi.co/}
+- Requisição HTTP via Javascript : fetch API (Disponívels nos browser mais modernos. Podem ser usados outros ex: JQuery e outros)
+- Link reference MDN:  https://developer.mozilla.org/en-US/docs/Web/API/Response/json 
+
+- Processamento assíncrono (requisição que não terá a resposta de imediato devidos ao processamento dos dados no percurso entre servidor e cliente com resultado influenciado também pela velocidade da conexão ou de processos no cliente/servidor).
+
+<img src="https://live.staticflickr.com/65535/53693124047_d9be6ae51a_o.png">
+
+- Manipulando o resultado da requisição através de uma Promise
+
+
+
+
 
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula
 

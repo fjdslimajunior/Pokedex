@@ -94,7 +94,7 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 
 - Processamento assíncrono (requisição que não terá a resposta de imediato devidos ao processamento dos dados no percurso entre servidor e cliente com resultado influenciado também pela velocidade da conexão ou de processos no cliente/servidor).
 
-<img src="https://live.staticflickr.com/65535/53693124047_d9be6ae51a_o.png">
+<img src="https://live.staticflickr.com/65535/53693124047_d9be6ae51a_o.png" height="700" width="700">
 
 - Manipulando o resultado da requisição através de uma Promise
 

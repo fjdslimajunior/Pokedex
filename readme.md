@@ -94,9 +94,11 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 
 - Processamento assíncrono (requisição que não terá a resposta de imediato devidos ao processamento dos dados no percurso entre servidor e cliente com resultado influenciado também pela velocidade da conexão ou de processos no cliente/servidor).
 
-<img src="https://live.staticflickr.com/65535/53693124047_d9be6ae51a_o.png" height="700" width="700">
-
+<p align="center"><img class="imagem" src="https://live.staticflickr.com/65535/53693124047_d9be6ae51a_o.png" height="300" width="400">
+<p>
 - Manipulando o resultado da requisição através de uma Promise
+
+- Exemplo de tratamento de promissie baseado na aula - Manipulando o resultado da requisição através de uma Promise. {https://www.youtube.com/watch?v=MAHvHfTM46M}
 
 
 
@@ -105,7 +107,7 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula
 
 <style>
-        h1{
-            color: aquamarine;
-        }
+h1{
+color: aquamarine;
+}
 </style>

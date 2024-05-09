@@ -98,7 +98,7 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 <p>
 - Manipulando o resultado da requisição através de uma Promise
 
-- Exemplo de tratamento de promissie baseado na aula - Manipulando o resultado da requisição através de uma Promise. {https://www.youtube.com/watch?v=MAHvHfTM46M}
+- Exemplo de tratamento de promise baseado na aula - Manipulando o resultado da requisição através de uma Promise. {https://www.youtube.com/watch?v=MAHvHfTM46M}
 
 
 

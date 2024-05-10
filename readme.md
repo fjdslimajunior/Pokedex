@@ -2,7 +2,7 @@
 - Imagem de referencia extraida do :  https://dribbble.com/
 - instalação usando o npm do http-server (npm install -g http-server)
 
-### <h1> 0.1</h1>
+### <h1 class="title"> 0.1</h1>
 
 * Erro de execução do servidor http-server devido a configuração padrão de execução de script do windows, ativados por motivos de segurança pelo próprio sistema. 
 
@@ -19,7 +19,7 @@ Set-ExecutionPolicy unrestrict
 Confirmar a alteração e tentar execução novamente
 
 
-### <h1> Conceito do Protocolo cliente / servidor </h1>
+### <h1 class="title"> Conceito do Protocolo cliente / servidor </h1>
 
 - HTTPS E HTTP
 - Portas
@@ -28,11 +28,14 @@ Confirmar a alteração e tentar execução novamente
 
 - Teoria baseada em um servidor local, porém estrutura se repete de modo global. 
 
-## <h1> HTML linguagem de marcação de texto </h1>
-## <h1> CSS Estilos </h1>
-## <h1> Javascript Dita o comportamento da nossa página</h1>
+## <h1 class="title"> HTML linguagem de marcação de texto </h1>
+Responsável por estruturar a página.
+## <h1 class="title"> CSS Estilos </h1>
+Responsável por configurar todo o estilo da página.
+## <h1 class="title"> Javascript </h1>
+Responsável por ditar o comportamento da nossa página.
 
-### <h1> 0.2</h1>
+### <h1 class="title"> Padrão de Estilização no CSS 0.2</h1>
 - Devido ao problema de interpretação diferenciada sobre cada navegador, onde cada um tem o seu módolu de interepretação do código, usaremos um especie de padronizador do css, neste caso está sendo usado o "https://necolas.github.io/normalize.css/", existe outras opções disponíveis, basta buscar. 
 - cdn normalize css
 
@@ -41,10 +44,10 @@ Confirmar a alteração e tentar execução novamente
 
 
 
-### <h1> 0.3</h1>
+### <h1 class="title"> Técnica de uso comum atualmente 0.3</h1>
 - Uso de técnica Mobile First.
 
-### <h1> 0.4</h1>
+### <h1 class="title"> Div Atribudots e Métodos 0.4</h1>
 - inclusão de listas, div
 - identificação por "class"
 - Ajuste de layoute
@@ -52,7 +55,7 @@ Confirmar a alteração e tentar execução novamente
 - Edição de elisto do .css
 - uso da api [https://pokeapi.co/]
 
-### <h1> 0.5</h1>
+### <h1 class="title"> Protocolo HTTP. 0.5</h1>
 + Funcionamento do protocolo HTTP
 - URL
 - PATH
@@ -87,7 +90,7 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 
 - Mencionou Pré-processadores de CSS **Sass
 
-### <h1> 0.6</h1>
+### <h1 class="title">API. 0.6</h1>
 - Integração com a PokeAPI {https://pokeapi.co/}
 - Requisição HTTP via Javascript : fetch API (Disponívels nos browser mais modernos. Podem ser usados outros ex: JQuery e outros)
 - Link reference MDN:  https://developer.mozilla.org/en-US/docs/Web/API/Response/json 
@@ -107,7 +110,13 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 | Referência repositório https://github.com/digitalinnovationone By:  RenanJPaula
 
 <style>
-h1{
-color: aquamarine;
+h1.title {
+color: ;
+font-size: 15px;
+text-align: center;
+text-shadow: 0 0 0.9em #F87, 0 0 0.2em #F87
 }
+
+
+
 </style>

@@ -111,7 +111,6 @@ URL: https://pokeapi.co/api/v2/pokemon<BR>
 
 <style>
 h1.title {
-color: ;
 font-size: 15px;
 text-align: center;
 text-shadow: 0 0 0.9em #F87, 0 0 0.2em #F87
